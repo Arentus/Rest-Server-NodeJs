@@ -28,7 +28,7 @@ app.post('/usuario', function (req, res) {
 		});
 	}else{
 		res.json({
-			amor_de_tu_vida:body
+			persona:body
 		});
 	}
 
