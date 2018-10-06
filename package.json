@@ -1,0 +1,26 @@
+{
+  "name": "restserver",
+  "version": "1.0.0",
+  "description": "un rest server para el curso de udemy node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/arentus"
+  },
+  "keywords": [
+    "server",
+    "nodejs",
+    "rest",
+    "nosql",
+    "mongodb"
+  ],
+  "author": "arentus",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3"
+  }
+}
